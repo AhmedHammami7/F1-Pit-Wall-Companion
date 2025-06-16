@@ -107,12 +107,6 @@ Unit tests written using:
 
 ---
 
-## 🗃️ License
-
-**MIT License** — Free to use, distribute, and modify.
-
----
-
 ## 👤 Author
 
 **Ahmed Hammami**  
